@@ -1,1 +1,1 @@
-<img src="js-online-shopping.png" alt="" width="100%"/>
+<img src="simple-clothes-interface.png" alt="" width="100%"/>
